@@ -1,7 +1,6 @@
-<p align="center">
+<p align="center"> 
   
 ![image](https://github.com/teeckay/VPNs/assets/64244011/108f9f40-4a04-4d0f-9749-1122ceb518a7)
-
 
 </p>
 
@@ -33,7 +32,7 @@ This exercise will show how a VPN works by hiding your real IP address, securing
 
 <p>
   
-Begin by checking your PCs IP address. You can do this by visiting www.whatismyipaddress.com. Mine shows that it is 71.88.22.33 in Chicopee Massachusetts, United States.
+Begin by checking your PCs IP address. You can do this by visiting www.whatismyipaddress.com. My IP address from this website shows that it is 71.88.22.33 in Chicopee Massachusetts, United States.
 </p>
 <p>
   
